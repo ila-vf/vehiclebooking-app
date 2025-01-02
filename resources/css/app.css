@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    background: linear-gradient(to bottom, #BFC3E9, #DDC3E2);
+    /* font poppins sebagai font utama dan fallback font untuk antisipasi font utama gagal dimuat */
+    font-family:sans-serif;
+  }
